@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siroosbo
-- 👀 I’m interested in Crypto
+- 👀 I’m interested in L1 & L2
 - 🌱 I’m currently learning Web3
 
 <!---
